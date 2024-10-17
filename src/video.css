@@ -1,0 +1,11 @@
+/* styles.css */
+.video-container {
+    width: 640px;  /* Set the desired width */
+    height: 360px; /* Set the desired height */
+    max-width: 100%; /* Make it responsive */
+  }
+  
+  .video-js {
+    width: 100%; /* Make the video fill the container */
+    height: 100%;
+  }
